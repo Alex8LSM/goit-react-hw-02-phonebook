@@ -1,7 +1,7 @@
 import React from 'react';
 import { nanoid } from 'nanoid';
 import ContactList from './ContactList/ContactList';
-import importContacts from './ContactList/Contacts.json';
+import importContacts from '../Data/Contacts.json';
 import ContactForm from './ContactForm/ContactForm';
 import Filter from './SearchFilter/SearchFilter';
 import './App.css';
